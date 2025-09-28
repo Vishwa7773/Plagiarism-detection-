@@ -39,14 +39,11 @@ The system supports both **plain text input** and **PDF uploads**, with a user-f
 
 -  Improved UI/UX design
 
--  Acknowledgements
-
+## Acknowledgements
 ### Streamlit
  for making web app deployment easy
-
 ### NLTK
  for natural language processing tools
-
 ### scikit-learn
  for text vectorization & similarity
 
