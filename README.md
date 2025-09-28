@@ -7,7 +7,7 @@ The system supports both **plain text input** and **PDF uploads**, with a user-f
 
 
 
-## 🚀 Features  
+##  Features  
 
 - **Text Similarity Detection**  
   - Uses **TF-IDF (Term Frequency–Inverse Document Frequency)** and **Cosine Similarity** to measure overlap between two texts.  
@@ -20,7 +20,7 @@ The system supports both **plain text input** and **PDF uploads**, with a user-f
 
 
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Python** – Core language  
 - **scikit-learn** – TF-IDF Vectorizer & Cosine Similarity  
@@ -28,5 +28,26 @@ The system supports both **plain text input** and **PDF uploads**, with a user-f
 - **PyMuPDF (fitz)** – PDF text extraction  
 - **Streamlit** – Web interface  
 
+
+## Future Improvements
+
+-  Support for Image-based PDFs (OCR extraction)
+
+-  Multi-language support
+
+-  Detailed similarity reports (highlighting matching text)
+
+-  Improved UI/UX design
+
+-  Acknowledgements
+
+### Streamlit
+ for making web app deployment easy
+
+### NLTK
+ for natural language processing tools
+
+### scikit-learn
+ for text vectorization & similarity
 
 
